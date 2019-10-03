@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Motaleff",
+    "description": "",
+    "home_page_url": "https://hyndetron.github.io/ motaleff",
+    "feed_url": "https://hyndetron.github.io/ motaleff/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hyndetron"
+    },
+    "items": [
+        {
+            "id": "https://hyndetron.github.io/ motaleff/hello-world.html",
+            "url": "https://hyndetron.github.io/ motaleff/hello-world.html",
+            "title": "Hello World!",
+            "summary": "Helo world!",
+            "content_html": "Helo world!",
+            "author": {
+                "name": "Hyndetron"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-03T09:06:29+03:00",
+            "date_modified": "2019-10-03T09:06:29+03:00"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Motaleff</title>
+    <link href="https://hyndetron.github.io/ motaleff/feed.xml" rel="self" />
+    <link href="https://hyndetron.github.io/ motaleff" />
+    <updated>2019-10-03T09:11:31+03:00</updated>
+    <author>
+        <name>Hyndetron</name>
+    </author>
+    <id>https://hyndetron.github.io/ motaleff</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Hyndetron</name>
+        </author>
+        <link href="https://hyndetron.github.io/ motaleff/hello-world.html"/>
+        <id>https://hyndetron.github.io/ motaleff/hello-world.html</id>
+
+        <updated>2019-10-03T09:06:29+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Helo world!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Helo world!
+            ]]>
+        </content>
+    </entry>
+</feed>
